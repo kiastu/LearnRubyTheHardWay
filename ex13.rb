@@ -1,7 +1,6 @@
 # ARGV is the argument variable. It is how ruby reads in to commandline arguments that are entered when you originally ran the script.
 # Also, seems like ruby takes tuples. Unpacks very similarly to python.
 
-
 first, second, third = ARGV
 
 puts "First variable is: #{first}"
